@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.navbar {
+    background-color: #007bff;
+    padding: 10px;
+    color: #fff;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.badge-pass {
+    background-color: green;
+    color: white;
+    padding: 3px 6px;
+    border-radius: 5px;
+}
+
+.badge-fail {
+    background-color: red;
+    color: white;
+    padding: 3px 6px;
+    border-radius: 5px;
+}
+
+button {
+    cursor: pointer;
+}
